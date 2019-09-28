@@ -1,6 +1,4 @@
 # Powershell_Fernet_Obfuscator
-
-# Powershell_Fernet_Obfuscator
 A python Code to obfuscate any non-fud Powershell payload and generate a ready to use FUD Python executable script
 
 <h1> <b>Powershell_Fernet_Obfuscator </b></h1>
@@ -20,5 +18,5 @@ that can be used to perform different tasks.</p></b>
 <p><b>Watch The Youtube Video for Clarification </p></b>
 
 <a href="https://youtu.be/aH2D3P1rkiQ" rel="nofollow">
-<img src= "https://github.com/1captainnemo1/Fernet_Obfuscator/blob/master/Screenshot%20from%202019-09-25%2019-42-30.png?raw=true" alt="to_video" style="max-width:100%;">
+<img src= "https://github.com/1captainnemo1/Powershell_Fernet_Obfuscator/blob/master/empire_fernet_ps.png?raw=true" alt="to_video" style="max-width:100%;">
 </a>
